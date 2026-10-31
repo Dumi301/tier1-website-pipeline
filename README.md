@@ -71,13 +71,13 @@ Single-buyer, non-exclusive license. No redistribution or resale.
 
 ## Install
 
-Clone or download this repo, then copy the folder into `~/.claude/skills/tier1-website-pipeline/` (and `agents/*.md` into `~/.claude/agents/`). Also listed free on Agensi: https://agensi.io/skills/tier-1-website-pipeline
+Clone or download this repo, then copy the folder into `~/.claude/skills/tier1-website-pipeline/` (and `agents/*.md` into `~/.claude/agents/`). Also listed free on Agensi: https://agensi.io/skills/fast-static-astro-website-from-a-business-brief
 
 ## Paid tiers (same protocol, more output)
 
-- **Animated marketing site** (React islands, registry animations, design-craft grader) — https://agensi.io/skills/tier-2-website-pipeline ($19)
-- **Scroll-driven 3D site** (GSAP ScrollTrigger + React Three Fiber, storyboard-bound) — https://agensi.io/skills/tier-3-website-pipeline ($29)
-- **4-agent feature pipeline** for any feature, not just sites — https://agensi.io/skills/dev-team-pipeline ($9)
+- **Animated marketing site** (React islands, registry animations, design-craft grader) — https://agensi.io/skills/animated-marketing-website-from-a-business-brief-astro ($19)
+- **Scroll-driven 3D site** (GSAP ScrollTrigger + React Three Fiber, storyboard-bound) — https://agensi.io/skills/scroll-driven-3d-website-from-a-business-brief-r3f ($29)
+- **4-agent feature pipeline** for any feature, not just sites — https://agensi.io/skills/plan-build-test-review-4-agent-feature-pipeline ($9)
 
 ## License
 
